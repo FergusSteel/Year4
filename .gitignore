@@ -1,3 +1,5 @@
 *.json
 *.css
-conflict-files-obsidian-git
+
+# Ignore all files in the .obsidian directory
+.obsidian/
