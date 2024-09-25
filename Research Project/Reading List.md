@@ -1,0 +1,33 @@
+- [x] **Multimodal Learning with Transformers: A Survey** ([Link](https://ar5iv.labs.arxiv.org/html/2206.06488))
+    - [x] Relevant?
+- [x] **Deep Cross-Modal Audio-Visual Generation** ([Link](https://ar5iv.labs.arxiv.org/html/1704.08292))
+    - [x] Relevant?
+- [ ] **Enriched Music Representations with Multiple Cross-modal Contrastive Learning** ([Link](https://ar5iv.labs.arxiv.org/html/2104.00437))
+    - [ ] Relevant?
+- [ ] **Cross-modal embeddings for video and audio retrieval ([Link](https://arxiv.org/abs/1801.02200))
+- [ ] **Audio-Visual Embedding for Cross-Modal Music Video Retrieval** ([Link](https://ar5iv.labs.arxiv.org/html/1908.03744))
+    - [ ] Relevant?
+- [ ] **Creating a Multitrack Classical Music Performance Dataset for Multimodal Music Analysis** ([Link](https://ar5iv.labs.arxiv.org/html/1612.08727))
+    - [ ] Relevant?
+- [ ] **WaveNet: A Generative Model for Raw Audio** ([Link](https://deepmind.com/research/publications/wavenet-generative-model-raw-audio))
+    - [ ] Relevant?
+- [ ] **Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders** ([Link](https://ar5iv.labs.arxiv.org/html/1704.01279))
+    - [ ] Relevant?
+- [ ] **Vision Transformers: A Survey** ([Link](https://ar5iv.labs.arxiv.org/html/2103.04037))
+    - [ ] Relevant?
+- [ ] **MMT: Transformer for Multi-modal Multi-label Self-supervised Learning** ([Link](https://ar5iv.labs.arxiv.org/html/2203.11977))
+    - [ ] Relevant?
+- [ ] **See and Listen: Score-Informed Association of Sound Tracks to Players in Chamber Music Performance Videos** ([Link](https://ar5iv.labs.arxiv.org/html/1705.06455))
+    - [ ] Relevant?
+- [ ] **Visual and Audio-Based Emotion Recognition in Music Performances** ([Link](https://ar5iv.labs.arxiv.org/html/2004.09476))
+    - [ ] Relevant?
+- [ ] **Audio to Body Dynamics: Predicting Musician Body Movements from Audio** ([Link](https://ar5iv.labs.arxiv.org/html/1906.00435))
+    - [ ] Relevant?
+- [ ] **Skeleton-Based Audio-Visual Learning for Source Separation in Music Performances** ([Link](https://ar5iv.labs.arxiv.org/html/2004.09476))
+    - [ ] Relevant?
+- [ ] **MIR-ST500: A Dataset for Music Information Retrieval** ([Link](https://paperswithcode.com/dataset/mir-st500))
+    - [ ] Relevant?
+- [ ] **Vision Transfomers are Robust Learners** (Link)[https://arxiv.org/abs/2105.07581]
+	- [x] Relevant?
+- [ ] **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks** ([Link]())
+- [ ] **VideoBERT**
