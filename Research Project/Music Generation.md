@@ -1,0 +1,5 @@
+- Currently three approaches as far as I can tell:
+	- Generating MIDI sequences via inference, typically infers an array that represents the predicted note sequence
+	- Spectogram diffusion using diffusion techniques to create spectograms that can be played as audio
+		- Typically will use a prior which could be the spectogram of a violin being played and then this will be diffused to match context
+	- Music Encoders and Decoders, a token based approach. META released SOTA approach MusicGen. This will likely be the approach I use - how can features from the visual domain be utilised here?

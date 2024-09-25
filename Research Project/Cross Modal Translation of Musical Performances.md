@@ -4,6 +4,8 @@
 ### Research Question
 > Can visual transformers effectively embed and translate features from the visual domain into the audio domain, allowing for the synthesis of accurate and emotionally expressive music?
 
+> NEW: Ignoring the emotional aspect, can we train a generative model to create music that matches the semantic embeddings of the video. I.e. if a violin solo is being played slowly and clearly emotively is this able to be captured and then translated into the audio domain (Not necessarily matching the ground truth note by note, but matching in terms of semantics and matching tempos)
+
 This project aims to investigate the following:
 1. Cross Modal Translation of Features in the Audio-Visual Domains
 	 - i.e: how visual performance's can be used to generate accurate and emotive music through cross-modal translation between visual and auditory domains.

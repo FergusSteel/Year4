@@ -30,3 +30,4 @@
 	- [x] Relevant?
 - [ ] **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks** ([Link]())
 - [ ] **VideoBERT**
+- [ ] Multi-Instrumentalist Net: Unsupervised Generation of Music from Body Movements https://arxiv.org/abs/2012.03478
