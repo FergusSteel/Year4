@@ -1,0 +1,6 @@
+- Assessed Exercise 1 - Paper Review (20%)
+	- Due November 5th
+- Assessed Exercise 2 - Research Proposal (50%)
+	- Due November 19th
+- Assessed Exercise 3 - Poster and Presentation (30%)
+	- Due November 26th
