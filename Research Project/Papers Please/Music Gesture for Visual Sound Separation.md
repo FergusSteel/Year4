@@ -1,0 +1,3 @@
+Sound seperation is the computer vision task where in which the source of different sounds are identified in the visual domain.
+
+The video analysis network extracts body dynamics and semantic context of musical instruments from video frames. The audio-visual separation network is then responsible for separating each sound source based on the visual context. In order to better leverage the body dynamic motions for sound separations, we further design a new audio-visual fusion module in the middle of the audio-visual separation network to adjust sound features conditioned on visual features.
