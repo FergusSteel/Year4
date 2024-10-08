@@ -1,2 +1,4 @@
-- [ ] PRRCS Req Reading
-- [ ] PRRCS decide on which paper for AE1
+- [x] PRRCS Paper
+- [x] Email Paul
+- [ ] Read a paper
+- [ ] Create a prototype with URMP, make CLIP embeddings of the videos or something

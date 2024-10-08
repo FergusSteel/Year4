@@ -16,7 +16,7 @@
 			- we'll draw a search tree, etc.
 
 - Constraint Programming
-	- A Constrain Program, is a framework for solving constraint satisfaction problem (a CSP)
+	- A Constraint Program, is a framework for solving constraint satisfaction problem (a CSP)
 	- A CSP is a triple consisting of:
 		- Variables
 		- Domains for those variables
