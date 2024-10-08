@@ -30,6 +30,7 @@ The major gap lies in synthesising expressive audio that reflects both the techn
 ## Synthesis Pipeline
 - 2022 [Model from Google](https://colab.research.google.com/github/magenta/music-spectrogram-diffusion/blob/main/music_spectrogram_diffusion/colab/synthesize_midi.ipynb#scrollTo=pBIzsGBBmqLz) that uses diffusion models (i.e. denoising) to create spectograms from MIDI files.
 - MusicGen from Meta using Semantic embeddings of videos - can we tailor this to musical performances?
+- Using ViVit, and then the spectogram as a prior to infer remaining spectograms
 
 ## Literature Review
 - Likely want to find and read 5 key papers for each category that get increasingly relevant/SOTA
