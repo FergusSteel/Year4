@@ -2,6 +2,11 @@
     - [x] Relevant?
 - [x] **Deep Cross-Modal Audio-Visual Generation** ([Link](https://ar5iv.labs.arxiv.org/html/1704.08292))
     - [x] Relevant?
+- [x] **Towards Efficient Audio-Visual Learners via Empowering Pre-trained Vision Transformers with Cross-Modal Adaptation** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10677849)
+	- [x] Relevant
+- [ ] **Deep audio-visual learning: A survey** [Link](https://arxiv.org/abs/2001.04758)
+- [ ] E. Shlizerman, L. Dery, H. Schoen, and I. KemelmacherShlizerman, “Audio to body dynamics,” in Proc. CVPR, 2018.
+	- [ ] 
 - [ ] **Enriched Music Representations with Multiple Cross-modal Contrastive Learning** ([Link](https://ar5iv.labs.arxiv.org/html/2104.00437))
     - [ ] Relevant?
 - [ ] **Cross-modal embeddings for video and audio retrieval ([Link](https://arxiv.org/abs/1801.02200))
