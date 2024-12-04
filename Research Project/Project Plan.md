@@ -2,7 +2,7 @@
 ### Project Plan: Cross-Modal Translation of Visual and Audio Domains for Music Synthesis
 
 #### **1. Project Overview**
-This project will investigate how visual transformers can embed and translate features from the visual domain into the audio domain. The goal is to create a cross-modal model that allows for dual-stream translation of embeddings from videos of musical performances and vice-versa.
+This project will investigate how visual transformers can embed and translate features from the visual domain into the audio domain. The goal is to create a cross-modal model that allows for dual-stream translation of embeddings from videos of musical performances to synthesised audio of said performance and vice-versa.
 
 #### **2. Research Questions**
 - **Primary Question**: Can visual transformers be used effectively in a two-stream cross-modal model to embed and translate visual features into the audio domain to synthesize realistic music and vice versa with the use of priors?
@@ -13,7 +13,7 @@ This project will investigate how visual transformers can embed and translate fe
    - Set up experiments to quantitatively and qualitatively assess the synthesized audio compared to the ground truth in terms of accuracy and emotional expression.
 
 #### **4. Project Justification**
-This project advances the field of multimodal learning by exploring how visual transformers can be used to express musical nuances through audio synthesis. The research has implications for both music performance analysis and education by potentially offering new tools for analyzing and learning musical performance through cross-modal embeddings.
+This project advances the field of multimodal learning by exploring how visual transformers can be used to express musical nuances through audio synthesis. The research has implications for music performance analysis by potentially offering new tools for analyzing musical performance or through reconstructing musical performances from audio, through utilising cross-modal translation.
 
 
 #### **5. Methodology**
@@ -54,7 +54,7 @@ This project advances the field of multimodal learning by exploring how visual t
 - **Phase 5: Final Testing and Report Preparation (Weeks 17-20)**
    - Conduct final tests, compile results, and write the project report.
 #### **7. Tools and Resources**
-- **Hardware**: Access to GPU clusters for model training.
+- **Hardware**: Access to GPUs for model training - this is done
 - **Software**: PyTorch (for model development), Hugging Face Transformers, Google’s Music Spectrogram Diffusion, Meta’s MusicGen if using music embeddings is feasible.
 - **Data**: URMP dataset, potential additional datasets for cross-validation (Solos Dataset).
 #### **9. Risks and Contingencies**
@@ -63,4 +63,4 @@ This project advances the field of multimodal learning by exploring how visual t
 - **Risk 2**: Difficulty in quantitative evaluation.
    - *Mitigation*: Use multiple evaluation metrics and human subject tests to assess emotional expression and accuracy.
 #### **10. Deliverables**
-- **Prototype of Cross-Modal Model**: A functional dual-stream model capable of synthesizing music from videos of musical performances and using those embeddings and prior synthesise performance videos from audio.
+- Audio-to-Visual (Dual-Stream) Cross-Modal Translation Model**: A functional dual-stream model capable of synthesizing music from videos of musical performances and using those embeddings and a prior, synthesise performance videos from audio.
